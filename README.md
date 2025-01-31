@@ -11,22 +11,31 @@ Podemos abrir o **cmd** no windows, para executar comandos
 >
 > C:\Users\userName>**_**
 
+Listando arquivos:
+
 ```
 dir
 ```
+
+Criando uma pasta:
 
 ```
 mkdir Projeto1
 ```
 
+Mudando a Pasta:
 ```
 cd Projeto1
 ```
 
-> C:\Users\userName\Projeto1>**_**
+> C:\Users\userName\Projeto1>**_** 
+
+
+Voltando a Pasta: 
 
 ```
 cd ...
 ```
 
 > C:\Users\userName>**_**
+
