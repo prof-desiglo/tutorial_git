@@ -39,3 +39,8 @@ cd ...
 
 > C:\Users\userName>**_**
 
+## Markdown
+
+[Exemplo genérico de Markdown](https://github.com/prof-desiglo/tutorial_git/blob/main/markdownExample.md)
+
+
